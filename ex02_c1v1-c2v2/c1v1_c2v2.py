@@ -6,10 +6,11 @@ def regla3(a):
 
 value1 = input("Enter value to calculate: ")
     if value1 = V2:
-        input("Enter C1: ")
-        input("Enter V1: ")
-        input("Enter C2: ")
+        c1 = input("Enter C1: ")
+        v1 = input("Enter V1: ")
+        c2 = input("Enter C2: ")
+        regla3()
     else value1 = C2:
-        input("Enter C1: ")
-        input("Enter V1: ")
-        input("Enter V2: ")
+        c1 = input("Enter C1: ")
+        v1 = input("Enter V1: ")
+        v2= input("Enter V2: ")
